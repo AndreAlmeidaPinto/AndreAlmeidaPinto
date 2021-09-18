@@ -44,7 +44,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=iiirataxiii&show_icons=true&hide_border=true" />
+<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=CaptainRatax&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/just_andre_here
 [instagram]: https://www.instagram.com/just_ratax_here/

@@ -2,7 +2,7 @@
 
 [![Facebook Page](https://img.shields.io/static/v1?label=Rat.exe+Page&message=Like!&style=for-the-badge&logo=facebook&url=https://www.facebook.com/rat.exe.pt)](https://www.facebook.com/rat.exe.pt)
 [![Instagram Follow](https://img.shields.io/static/v1?label=Rat.exe+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/rat.exe.pt/)](https://www.instagram.com/rat.exe.pt/)
-[![Twitch Follow](https://img.shields.io/twitch/status/iiirataxiii?label=Rat.exe%20Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/iiirataxiii)](https://www.twitch.tv/iiirataxiii)
+[![Twitch Follow](https://img.shields.io/twitch/status/iiirataxiii?label=Captain%20Ratax%20Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/iiirataxiii)](https://www.twitch.tv/iiirataxiii)
 
 ## I'm Developer and love computer hardware too!!
 

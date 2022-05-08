@@ -8,7 +8,7 @@
 
 - ⚛️ I’m currently learning C#, React.js and improving my node.js skills
 - 💡 I’m looking for ideas for my Ace Discord Bot
-- 🥅 2021 Goals: Contribute more on Github
+- 🥅 2022 Goals: Pass Maths
 - ⚡ Fun fact: I love Destiny 2 and The Witcher
 
 ### Spotify Playing 🎧

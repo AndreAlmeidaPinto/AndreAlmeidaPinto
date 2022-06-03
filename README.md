@@ -46,7 +46,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=CaptainRatax&show_icons=true&hide_border=true" />
+<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=CaptainRatax&show_icons=true&hide_border=true" width="50%"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainRatax&layout=compact)](https://github.com/CaptainRatax)
 

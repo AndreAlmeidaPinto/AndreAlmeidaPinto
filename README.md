@@ -1,4 +1,4 @@
-### Hi there, I'm André! - aka Ratax ♠️
+### Hi there, I'm André! - aka Captain Ratax ♠️
 
 [![Facebook Page](https://img.shields.io/static/v1?label=Rat.exe+Page&message=Like!&style=for-the-badge&logo=facebook&url=https://www.facebook.com/rat.exe.pt)](https://www.facebook.com/rat.exe.pt)
 [![Instagram Follow](https://img.shields.io/static/v1?label=Rat.exe+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/rat.exe.pt/)](https://www.instagram.com/rat.exe.pt/)

@@ -13,7 +13,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-iiirataxiii.vercel.app/api/spotify" alt="IIIRataxIII Spotify Playing" width="350" />](https://open.spotify.com/user/rataxsniperkill?si=3c8e7abe975b4b49)
+[<img align="left" src="https://novatorem-iiirataxiii.vercel.app/api/spotify" alt="IIIRataxIII Spotify Playing" width="350" />](https://open.spotify.com/user/rataxsniperkill?si=3c8e7abe975b4b49)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/315552837251760139?&bg=6F6F6F)](https://discord.com/users/315552837251760139)
 
 ### Connect with me:
 
@@ -46,6 +48,8 @@
 
 <img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=CaptainRatax&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/just_andre_here
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainRatax&layout=compact)](https://github.com/CaptainRatax)
+
+[twitter]: https://twitter.com/just_ratax_here
 [instagram]: https://www.instagram.com/just_ratax_here/
 [linkedin]: https://www.linkedin.com/in/andrepintoprofile/

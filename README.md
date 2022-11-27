@@ -19,9 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Andre Pinto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />][twitter]
-[<img align="left" alt="Andre Pinto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andre Pinto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Andre Pinto | Twitter" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/twitter.svg" target="_blank" />][twitter]
+[<img align="left" alt="Andre Pinto | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andre Pinto | Instagram" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" />][instagram]
 
 <br />
 

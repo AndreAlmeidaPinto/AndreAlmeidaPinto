@@ -1,13 +1,13 @@
 ### Hi there, I'm André! - aka Captain Ratax ♠️
 
-[![Facebook Page](https://img.shields.io/static/v1?label=Rat.exe+Page&message=Like!&style=for-the-badge&logo=facebook&url=https://www.facebook.com/rat.exe.pt)](https://www.facebook.com/rat.exe.pt)
-[![Instagram Follow](https://img.shields.io/static/v1?label=Rat.exe+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/rat.exe.pt/)](https://www.instagram.com/rat.exe.pt/)
-[![Twitch Follow](https://img.shields.io/twitch/status/iiirataxiii?label=Captain%20Ratax%20Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/iiirataxiii)](https://www.twitch.tv/iiirataxiii)
+[![TikTok Follow](https://img.shields.io/static/v1?label=Captain+Ratax+TikTok&message=Follow!&style=for-the-badge&logo=tiktok&url=https://www.tiktok.com/@captainratax)](https://www.tiktok.com/@captainratax)
+[![Instagram Follow](https://img.shields.io/static/v1?label=Captain+Ratax+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/captainratax/)](https://www.instagram.com/captainratax/)
+[![Twitch Follow](https://img.shields.io/twitch/status/captainratax?label=Captain%20Ratax%20Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/captainratax)](https://www.twitch.tv/captainratax)
 
 ## I'm Developer and love computer hardware too!!
 
 - ⚛️ I’m currently learning C#, React.js and improving my node.js skills
-- 💡 I’m looking for ideas for my Ace Discord Bot
+- 💡 I’m looking for ideas for my Ratot Discord Bot
 - 🥅 2023 Goals: Don't have a heart attack
 - ⚡ Fun fact: I love Destiny 2 and The Witcher
 

@@ -1,8 +1,8 @@
 ### Hi there, I'm André! - aka Captain Ratax ♠️
 
-[![TikTok Follow](https://img.shields.io/static/v1?label=Captain+Ratax+TikTok&message=Follow!&style=for-the-badge&logo=tiktok&url=https://www.tiktok.com/@captainratax)](https://www.tiktok.com/@captainratax)
-[![Instagram Follow](https://img.shields.io/static/v1?label=Captain+Ratax+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/captainratax/)](https://www.instagram.com/captainratax/)
-[![Twitch Follow](https://img.shields.io/twitch/status/captainratax?label=Captain%20Ratax%20Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/captainratax)](https://www.twitch.tv/captainratax)
+[![TikTok Follow](https://img.shields.io/static/v1?label=@captainratax+TikTok&message=Follow!&style=for-the-badge&logo=tiktok&url=https://www.tiktok.com/@captainratax)](https://www.tiktok.com/@captainratax)
+[![Instagram Follow](https://img.shields.io/static/v1?label=@captainratax+Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/captainratax/)](https://www.instagram.com/captainratax/)
+[![Twitch Follow](https://img.shields.io/twitch/status/captainratax?label=CaptainRatax+Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/captainratax)](https://www.twitch.tv/captainratax)
 
 ## I'm Developer and love computer hardware too!!
 

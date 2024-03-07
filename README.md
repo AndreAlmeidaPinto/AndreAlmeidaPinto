@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img align="left" src="https://novatorem-iiirataxiii.vercel.app/api/spotify" alt="IIIRataxIII Spotify Playing" width="350" />](https://open.spotify.com/user/rataxsniperkill?si=3c8e7abe975b4b49)
+[<img align="left" src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="IIIRataxIII Spotify Playing" width="350" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/315552837251760139?&bg=6F6F6F)](https://discord.com/users/315552837251760139)
 

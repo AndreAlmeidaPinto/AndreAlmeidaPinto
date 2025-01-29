@@ -8,7 +8,7 @@
 
 - ⚛️ I’m currently learning C#, React.js and improving my node.js skills
 - 💡 I’m looking for ideas for my Ratot Discord Bot
-- 🥅 2023 Goals: Don't have a heart attack
+- 🥅 2025 Goals: Don't have a heart attack
 - ⚡ Fun fact: I love Destiny 2 and The Witcher
 
 ### Spotify Playing 🎧

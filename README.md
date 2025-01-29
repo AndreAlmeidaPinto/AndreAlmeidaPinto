@@ -13,9 +13,9 @@
 
 ### Spotify Playing 🎧
 
-[<img align="left" src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="Captain Ratax Spotify Playing" width="350" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/315552837251760139?&bg=6F6F6F)](https://discord.com/users/315552837251760139)
+
+[<img align="left" src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="Captain Ratax Spotify Playing" width="350" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)
 
 ### Connect with me:
 

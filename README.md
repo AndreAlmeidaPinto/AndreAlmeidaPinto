@@ -17,7 +17,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Andre Pinto | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andre Pinto | Instagram" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" />][instagram]
 
 <br />
 

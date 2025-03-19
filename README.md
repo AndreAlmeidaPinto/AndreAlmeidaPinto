@@ -41,7 +41,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=andrepinto2000&show_icons=true&hide_border=true" width="50%"/>
+[<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=andrepinto2000&show_icons=true&hide_border=true" width="50%"/>](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto2000&layout=compact)](#)
 

@@ -1,4 +1,4 @@
-### Hi there, I'm André! - aka Captain Ratax ♠️
+### Hi there, I'm André!
 
 ## I'm Developer and love computer hardware too!!
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm André!
 
-## I'm Developer and love computer hardware too!!
+## I'm a Programmer and love computer hardware too!!
 
 - ⚛️ I’m currently learning Playwright, React.js and improving my node.js skills
 - 💡 I’m looking for ideas for my Ratot Discord Bot

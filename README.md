@@ -7,9 +7,6 @@
 - 🥅 2025 Goals: Take the GitHub Foundations Certification
 - ⚡ Fun fact: I love Destiny 2 and The Witcher
 
-### Discord Presence 🎮
-[<img src="https://lanyard-profile-readme.vercel.app/api/315552837251760139?&bg=6F6F6F" alt="Captain Ratax Spotify Playing" width="512" />](https://discord.com/users/315552837251760139)
-
 ### Spotify Playing 🎧
 
 [<img src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="Captain Ratax Spotify Playing" width="512" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)

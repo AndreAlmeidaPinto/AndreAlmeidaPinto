@@ -38,8 +38,8 @@
 
 ### GitHub Stats
 
-[<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=andrepintoprofile&show_icons=true&hide_border=true" width="50%"/>](#github-stats)
+[<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=AndreAlmeidaPinto&show_icons=true&hide_border=true" width="50%"/>](#github-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepintoprofile&layout=compact)](#github-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAlmeidaPinto&layout=compact)](#github-stats)
 
 [linkedin]: https://www.linkedin.com/in/andrepintoprofile/

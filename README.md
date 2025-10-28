@@ -4,7 +4,7 @@
 
 - ⚛️ I’m currently learning Playwright, React.js and improving my node.js skills
 - 💡 I’m looking for ideas for my Ratot Discord Bot
-- 🥅 2025 Goals: Take the GitHub Foundations Certification
+- 🥅 2026 Goals: Take the GitHub Foundations Certification
 - ⚡ Fun fact: I love Destiny 2 and The Witcher
 
 ### Spotify Playing 🎧

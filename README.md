@@ -50,9 +50,7 @@
 
 ### GitHub Stats
 
-[<img align="left" alt="IIIRataxIII GitHub Stats" src="https://github-readme-stats-iiirataxiii.vercel.app/api?username=AndreAlmeidaPinto&show_icons=true&hide_border=true" width="50%"/>](#github-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAlmeidaPinto&layout=compact)](#github-stats)
+[![CaptainRatax GitHub Stats](https://github-readme-stats-iiirataxiii.vercel.app/api?username=CaptainRatax&show_icons=true&hide_border=true)](#github-stats)
 
 [linkedin]: https://www.linkedin.com/in/andrepintoprofile/
 [mastodon]: https://mastodon.social/@andre_ratax

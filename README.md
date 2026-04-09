@@ -1,4 +1,12 @@
-### Hi there, I'm André!
+### Hi there, I'm Captain Ratax!
+
+[![TikTok Follow](https://img.shields.io/static/v1?label=TikTok&message=Follow!&style=for-the-badge&logo=tiktok&url=https://www.tiktok.com/@captainratax)](https://www.tiktok.com/@captainratax)
+[![Instagram Follow](https://img.shields.io/static/v1?label=Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/captainratax/)](https://www.instagram.com/captainratax/)
+[![Twitch Follow](https://img.shields.io/twitch/status/captainratax?label=Twitch&style=for-the-badge&logo=twitch&url=https://www.twitch.tv/captainratax)](https://www.twitch.tv/captainratax)
+[![Mastodon Follow](https://img.shields.io/static/v1?label=Mastodon&message=Follow!&style=for-the-badge&logo=mastodon&url=https://mastodon.social/@captainratax)](https://mastodon.social/@captainratax)
+[![Bluesky Follow](https://img.shields.io/static/v1?label=Bluesky&message=Follow!&style=for-the-badge&logo=bluesky&url=https://bsky.app/profile/captainratax.pt)](https://bsky.app/profile/captainratax.pt)
+[![Twitter Follow](https://img.shields.io/static/v1?label=Twitter&message=Follow!&style=for-the-badge&logo=x&url=https://x.com/captainratax)](https://x.com/captainratax/)
+
 
 ## I'm a Programmer and love computer hardware too!!
 
@@ -11,9 +19,13 @@
 
 [<img src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="Captain Ratax Spotify Playing" width="512" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)
 
-### Connect with me:
+### Connect with me (Personal Socials):
 
+[<img align="left" alt="Andre Pinto | Mastodon" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/mastodon.svg" />][mastodon]
+[<img align="left" alt="Andre Pinto | Bluesky" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/bluesky.svg" />][bluesky]
+[<img align="left" alt="Andre Pinto | Twitter" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/twitter.svg" target="_blank" />][twitter]
 [<img align="left" alt="Andre Pinto | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andre Pinto | Instagram" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,3 +55,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAlmeidaPinto&layout=compact)](#github-stats)
 
 [linkedin]: https://www.linkedin.com/in/andrepintoprofile/
+[mastodon]: https://mastodon.social/@andre_ratax
+[bluesky]: https://bsky.app/profile/andreratax.bsky.social
+[twitter]: https://twitter.com/andre_ratax
+[instagram]: https://www.instagram.com/andre_ratax/

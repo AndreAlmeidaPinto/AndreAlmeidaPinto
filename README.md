@@ -1,4 +1,4 @@
-### Hi there, I'm Captain Ratax!
+### Hi there, I'm Captain Ratax (aka André Pinto)!
 
 [![TikTok Follow](https://img.shields.io/static/v1?label=TikTok&message=Follow!&style=for-the-badge&logo=tiktok&url=https://www.tiktok.com/@captainratax)](https://www.tiktok.com/@captainratax)
 [![Instagram Follow](https://img.shields.io/static/v1?label=Instagram&message=Follow!&style=for-the-badge&logo=instagram&url=https://www.instagram.com/captainratax/)](https://www.instagram.com/captainratax/)

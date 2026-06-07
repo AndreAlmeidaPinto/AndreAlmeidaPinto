@@ -15,10 +15,6 @@
 - 🥅 2026 Goals: Take the GitHub Foundations Certification
 - ⚡ Fun fact: I love Destiny 2, The Witcher and Steven Universe
 
-### Spotify Playing 🎧
-
-[<img src="https://github-readme-spotify-widget-alpha.vercel.app/api/spotify" alt="Captain Ratax Spotify Playing" width="512" />](https://open.spotify.com/user/31aaviku3sjygbf4dx4mth7ltqtm)
-
 ### Connect with me (Personal Socials):
 
 [<img align="left" alt="Andre Pinto | Mastodon" width="22px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/mastodon.svg" />][mastodon]

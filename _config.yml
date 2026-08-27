@@ -1,3 +1,5 @@
-theme: jekyll-theme-midnight
 title: Captain Ratax
 description: Developer • Open Source • Homelab • Gaming
+
+url: "https://captainratax.github.io"
+baseurl: "/CaptainRatax"

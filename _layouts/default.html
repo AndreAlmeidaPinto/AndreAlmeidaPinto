@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <style>
+    :root {
+      color-scheme: dark;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      background: #0d1117;
+    }
+
+    body {
+      margin: 0;
+      background: #0d1117;
+      color: #f0f6fc;
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji";
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .markdown-body {
+      width: 100%;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 32px 24px 48px;
+      overflow-wrap: break-word;
+    }
+
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: #f0f6fc;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    h1,
+    h2 {
+      padding-bottom: 0.3em;
+      border-bottom: 1px solid #21262d;
+    }
+
+    h1 {
+      font-size: 2em;
+    }
+
+    h2 {
+      margin-top: 24px;
+      font-size: 1.5em;
+    }
+
+    h3 {
+      margin-top: 24px;
+      font-size: 1.25em;
+    }
+
+    p {
+      margin-top: 0;
+      margin-bottom: 16px;
+    }
+
+    ul,
+    ol {
+      margin-top: 0;
+      margin-bottom: 16px;
+      padding-left: 2em;
+    }
+
+    li + li {
+      margin-top: 0.25em;
+    }
+
+    hr {
+      height: 4px;
+      padding: 0;
+      margin: 24px 0;
+      background-color: #30363d;
+      border: 0;
+      border-radius: 2px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    blockquote {
+      margin: 0 0 16px;
+      padding: 0 1em;
+      color: #8b949e;
+      border-left: 0.25em solid #30363d;
+    }
+
+    code {
+      padding: 0.2em 0.4em;
+      background: rgba(110, 118, 129, 0.4);
+      border-radius: 6px;
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        SF Mono,
+        Menlo,
+        Consolas,
+        monospace;
+      font-size: 85%;
+    }
+
+    pre {
+      padding: 16px;
+      overflow: auto;
+      background: #161b22;
+      border-radius: 6px;
+    }
+
+    pre code {
+      padding: 0;
+      background: transparent;
+    }
+
+    table {
+      display: block;
+      width: max-content;
+      max-width: 100%;
+      overflow: auto;
+      border-spacing: 0;
+      border-collapse: collapse;
+    }
+
+    table th,
+    table td {
+      padding: 6px 13px;
+      border: 1px solid #30363d;
+    }
+
+    table tr {
+      background: #0d1117;
+      border-top: 1px solid #21262d;
+    }
+
+    table tr:nth-child(2n) {
+      background: #161b22;
+    }
+
+    @media (max-width: 700px) {
+      .markdown-body {
+        padding: 20px 16px 36px;
+      }
+
+      h1 {
+        font-size: 1.75em;
+      }
+
+      h2 {
+        font-size: 1.35em;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="markdown-body">
+    {{ content }}
+  </main>
+</body>
+</html>

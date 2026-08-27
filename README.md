@@ -2,11 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9A7,100:00FF87&height=200&section=header&text=Captain%20Ratax&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Homelab%20%E2%80%A2%20Gaming&descAlignY=55&descSize=18" />
 
-# 👋 Hi, I'm Captain Ratax
+<h1>👋 Hi, I'm Captain Ratax</h1>
 
-### aka André Pinto
+<h3>aka André Pinto</h3>
 
+<p>
 Developer from Portugal 🇵🇹 who enjoys building software, experimenting with technology, running homelab infrastructure and occasionally wondering why something that worked yesterday no longer works today.
+</p>
 
 <br>
 
@@ -119,25 +121,21 @@ statistics are public, I will enable this section.
 
 <div align="center">
 
-### 💼 Professional
+<h3>💼 Professional</h3>
 
-<a href="https://andrepinto.eu"><img src="https://img.shields.io/badge/Portfolio-andrepinto.eu-00C9A7?style=for-the-badge" alt="André Pinto Portfolio" /></a>   <a href="https://www.linkedin.com/in/andrepintoprofile/"><img src="https://img.shields.io/badge/LinkedIn-André%20Pinto-0A66C2?style=for-the-badge" alt="André Pinto LinkedIn" /></a>
-
-[<img alt="André Pinto | Mastodon" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/mastodon.svg" />](https://mastodon.social/@andre_ratax)
-  
-[<img alt="André Pinto | Bluesky" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/bluesky.svg" />](https://bsky.app/profile/andreratax.bsky.social)
-  
-[<img alt="André Pinto | X" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/twitter.svg" />](https://twitter.com/andre_ratax)
-  
-[<img alt="André Pinto | Instagram" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" />](https://www.instagram.com/andre_ratax/)
-
-### 🎮 Captain Ratax
-
-<a href="https://captainratax.pt"><img src="https://img.shields.io/badge/Website-captainratax.pt-7F00FF?style=for-the-badge" alt="Captain Ratax Website" /></a>   <a href="https://www.twitch.tv/captainratax"><img src="https://img.shields.io/twitch/status/captainratax?style=for-the-badge&logo=twitch&label=Twitch" alt="Captain Ratax Twitch" /></a>
+<a href="https://andrepinto.eu"><img src="https://img.shields.io/badge/Portfolio-andrepinto.eu-00C9A7?style=for-the-badge" alt="André Pinto Portfolio" /></a> <a href="https://www.linkedin.com/in/andrepintoprofile/"><img src="https://img.shields.io/badge/LinkedIn-André%20Pinto-0A66C2?style=for-the-badge" alt="André Pinto LinkedIn" /></a>
 
 <br>
 
-<a href="https://www.tiktok.com/@captainratax"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>   <a href="https://www.instagram.com/captainratax/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>   <a href="https://mastodon.social/@captainratax"><img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" /></a>   <a href="https://bsky.app/profile/captainratax.pt"><img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>   <a href="https://x.com/captainratax"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://mastodon.social/@andre_ratax"><img alt="André Pinto | Mastodon" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/mastodon.svg" /></a> <a href="https://bsky.app/profile/andreratax.bsky.social"><img alt="André Pinto | Bluesky" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/bluesky.svg" /></a> <a href="https://twitter.com/andre_ratax"><img alt="André Pinto | X" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/twitter.svg" /></a> <a href="https://www.instagram.com/andre_ratax/"><img alt="André Pinto | Instagram" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" /></a>
+
+<h3>🎮 Captain Ratax</h3>
+
+<a href="https://captainratax.pt"><img src="https://img.shields.io/badge/Website-captainratax.pt-7F00FF?style=for-the-badge" alt="Captain Ratax Website" /></a> <a href="https://www.twitch.tv/captainratax"><img src="https://img.shields.io/twitch/status/captainratax?style=for-the-badge&logo=twitch&label=Twitch" alt="Captain Ratax Twitch" /></a>
+
+<br>
+
+<a href="https://www.tiktok.com/@captainratax"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a> <a href="https://www.instagram.com/captainratax/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://mastodon.social/@captainratax"><img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" /></a> <a href="https://bsky.app/profile/captainratax.pt"><img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a> <a href="https://x.com/captainratax"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
@@ -149,7 +147,7 @@ statistics are public, I will enable this section.
 
 <br><br>
 
-### 💚 Thanks for visiting!
+<h3>💚 Thanks for visiting!</h3>
 
 </div>
 

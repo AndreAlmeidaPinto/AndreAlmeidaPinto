@@ -125,7 +125,7 @@ statistics are public, I will enable this section.
 
 <a href="https://andrepinto.eu"><img src="https://img.shields.io/badge/Portfolio-andrepinto.eu-00C9A7?style=for-the-badge" alt="André Pinto Portfolio" /></a> <a href="https://www.linkedin.com/in/andrepintoprofile/"><img src="https://img.shields.io/badge/LinkedIn-André%20Pinto-0A66C2?style=for-the-badge" alt="André Pinto LinkedIn" /></a>
 
-<br>
+<br><br>
 
 <a href="https://mastodon.social/@andre_ratax"><img alt="André Pinto | Mastodon" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/mastodon.svg" /></a> <a href="https://bsky.app/profile/andreratax.bsky.social"><img alt="André Pinto | Bluesky" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/bluesky.svg" /></a> <a href="https://twitter.com/andre_ratax"><img alt="André Pinto | X" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/twitter.svg" /></a> <a href="https://www.instagram.com/andre_ratax/"><img alt="André Pinto | Instagram" width="26px" src="https://raw.githubusercontent.com/CaptainRatax/CaptainRatax/master/resources/instagram.svg" /></a>
 

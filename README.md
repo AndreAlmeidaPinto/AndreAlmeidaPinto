@@ -74,20 +74,14 @@ I enjoy working across different areas of software, infrastructure and technolog
 
 </div>
 
-<!--                  FUTURE: WAKATIME                      -->
-
-<!--
 ## ⏱️ Recent Coding Activity
-
-Once WakaTime is configured in VS Code / IntelliJ and the profile
-statistics are public, I will enable this section.
 
 <div align="center">
 
 <img width="70%" src="https://github-stats-extended-captainratax.vercel.app/api/wakatime?username=e2ad2878-01cc-49dc-8ab8-be4795e0b22f&theme=github_dark&hide_border=true&layout=compact&langs_count=8&custom_title=Recent%20Coding%20Activity" alt="Recent Coding Activity" />
 
 </div>
--->
+
 
 ---
 
